@@ -1,3 +1,8 @@
+---
+title: "It's a start"
+date: 2020-08-20
+---
+
 #*I swear I wanna do this right.*
 
 Hello again, and welcome back!
