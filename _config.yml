@@ -1,9 +1,9 @@
-theme: neumorphism
+theme: midnight
 title: Lou's Cottage
 author: luisalopes
 email: luisalopes@literatura451.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm... Not sure what to tell you.
+ Welcome to the slightly edited version of this Github Lab project. I'm still trying to figure it out.
 
 # social links
 twitter_username: ulliapseos # DO NOT include the @ character, or else the build will fail!
